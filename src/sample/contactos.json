@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "nombre": "José Agusto",
+        "numero": "5342-809-312",
+        "email": "agusto23@hotmail.com"
+    },
+    {
+        "id": 1,
+        "nombre": "Alejandro La Verde",
+        "numero": "849-9123-574",
+        "email": "KVerdeing@hotmail.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Hadahy Jarvis",
+        "numero": "809-2346-967",
+        "email": "HjoHadahyel20@hotmail.com"
+    }
+]

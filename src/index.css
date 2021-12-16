@@ -1,0 +1,90 @@
+body {
+  margin: auto;
+  
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.contcart{
+text-align: center;
+
+
+}
+.nav{  
+  display: flex;
+  align-items: center;
+  justify-content: space-between !important;
+}
+
+.agrainput{
+  border: 2px solid rgb(140, 219, 243) !important;  
+
+}
+
+
+
+.logo{
+  width: 6rem !important;
+  margin: 10px ;
+  padding: 0px;
+  margin-top: auto;
+ 
+}
+
+.h1{
+  text-align: center;font-weight: 800;
+  color: black !important;
+}
+
+
+
+
+.img{
+  width: 150px !important;
+  margin-top: 10px !important;
+  text-align: center;
+  margin: auto;
+  
+}
+
+label{
+  margin: 0px 5px;
+   
+}
+h5{
+  font-size: 15px !important;
+}
+.input input{
+ border: none;
+  width: 280px !important;
+  border-left: 1px solid rgb(234, 0, 255) !important ;
+  border-bottom: 1px solid rgb(234, 0, 255) !important ;
+}
+
+.botton{
+  
+text-align: center;
+margin: auto;
+;
+}
+
+
+.botton button{
+  width: auto;
+  margin: 20px;
+  background: rgb(36, 151, 151) !important;
+  
+}
+
+.BtmEnvial{
+  background: rgb(36, 151, 151) !important;
+}
+
