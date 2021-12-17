@@ -6,7 +6,7 @@ export default class ContactoForm extends Component {
     state = {
         nombre: '',
         numero: '',
-        email: '',
+        email: ''
     }
     
     onSubmit = (e) => {
@@ -17,7 +17,7 @@ export default class ContactoForm extends Component {
     onChange = (e) => {
         console.log(e.target.name, e.target.value)
         this.setState({
-            [e.target.name]: e.target.value.nome ()
+            [e.target.name]: e.target.value
         })
     }
 

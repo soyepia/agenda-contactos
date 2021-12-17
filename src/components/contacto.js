@@ -83,7 +83,7 @@ export default class contacto extends Component {
                             </div>
                             <div className="botton">                           
 
-                            <button type="submit" className="btn btn-secundary "
+                            <button type="submit" className="btn btn-secundary"
                                 style={this.EstiloEditanto()}
                                 onClick = {this.handleGameClik.bind(this)}>
                                 Editar
